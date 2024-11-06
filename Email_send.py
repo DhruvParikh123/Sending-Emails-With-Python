@@ -2,7 +2,7 @@
 import smtplib
 
 # send mail put
-lists =['parikhdhruv05@gmail.com']
+lists =['parikhdhruv05@gmail.com','parikhdhruv025@gmail.com']
 
 # connection in port no:-all Email same number in 587
 connection = smtplib.SMTP('smtp.gmail.com',587)
